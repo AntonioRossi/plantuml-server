@@ -1,5 +1,5 @@
 FROM alpine
-MAINTAINER Kyle Rich <kyle.rich@dealertrack.com>
+MAINTAINER Kyle Rich <yutakafrog@gmail.com>
 
 ENV MAVEN_VERSION 3.3.9
 
